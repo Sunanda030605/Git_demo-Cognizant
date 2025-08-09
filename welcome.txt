@@ -1,1 +1,1 @@
-Welcome to Git Hands-on Lab!
+Welcome to Git Demo!
